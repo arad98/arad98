@@ -3,11 +3,14 @@ Resume:https://rb.gy/1xrdla
 My GitHub https://github.com/arad98
 My Website https://arad98.github.io/
 
-Skills: Java, R, SQL, Git, Python, JavaScript, Agile, Scrum
+Skills: Java, R, mySQL, Python, JavaScript
+Tools: Git
+Frameworks: Spring
+Methodologies:  Agile, Scrum
 ________________________________________
-Education: Bachelor of Arts in Mathematical Thinking and Visualization
-Cumulative GPA: 3.22, Deans List 4 Quarters
-University of Washington Bothell || Bothell, WA Dec 2021 Minor: Information Technology
+Education: Bachelor of Arts in Mathematical Thinking and Visualization, Minor in Information Technology
+Cumulative GPA: 3.25, Deans List 6 Quarters
+University of Washington Bothell || Bothell, WA Dec 
 Clubs: Grey Hats, Association of Computer Machinery
 Relevant courses: Data Structures and Algorithms, Technical Writing, Software Engineering, Database Systems, Linear Algebra, Statistics, Data modeling
 
